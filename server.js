@@ -18,14 +18,12 @@ Articletwo : { title: 'Article two: neha chandra',
     heading: 'Article-two', 
     date: 'sep,27',
     content:  `<p> This is my content for second article</p>
-            <p> This is my content for second article </p>
-            <p> This is my content for second article </p> `},
+             `},
 Articlethree : { title: 'Article three: neha chandra',
     heading: 'Article-three', 
     date: 'sep,28',
     content:  `<p> This is my content for third article</p>
-            <p> This is my content for third article </p>
-            <p> This is my content for third article </p> `}
+             `}
 };
 
 function createTemplate(data) {
